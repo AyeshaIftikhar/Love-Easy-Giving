@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>316356944079-23s7si3oduqnaleen7692g0hhp3tl6bm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.316356944079-23s7si3oduqnaleen7692g0hhp3tl6bm</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>316356944079-bd7ibrvgac8vsqm1227n5njbnkfueups.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDH5k8TrVUkg-jRMPN33FHWnhpRD8yefYc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>316356944079</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.github.leggeneral</string>
+	<key>PROJECT_ID</key>
+	<string>loveeasygiving</string>
+	<key>STORAGE_BUCKET</key>
+	<string>loveeasygiving.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:316356944079:ios:a7da6c18e3987003f317ba</string>
+</dict>
+</plist>

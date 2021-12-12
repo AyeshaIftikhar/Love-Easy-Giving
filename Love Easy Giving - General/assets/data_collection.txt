@@ -1,0 +1,4 @@
+Data collection:
+Customer:Name, Telephone no, Email Add, door No, Street Name, Postcode, UK Tax Payer (Yes, No)
+Mosques: Mosque Name, door number, Street name, Town/area, City, Postcode, Charity Registration No, (Stripe API to transfer payments directly).
+Charities: Name, door number, Street name, Town/area, City, Postcode, Charity Registration No, (Stripe API to transfer payments directly)

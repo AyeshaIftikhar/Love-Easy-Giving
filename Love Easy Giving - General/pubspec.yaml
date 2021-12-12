@@ -1,0 +1,50 @@
+name: leggenerral
+description: A new Flutter project.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  get: ^4.1.4
+  flutter_svg: ^0.22.0
+  pin_code_fields: ^7.1.0
+  url_launcher: ^6.0.3
+  share_plus: ^2.0.0
+  flutter_cache: ^0.1.0
+  shared_preferences: ^2.0.5
+  connectivity: ^3.0.4
+  fluttertoast: ^8.0.7
+  http:
+  intl: ^0.17.0
+  firebase_core: ^1.2.0
+  firebase_auth: ^1.2.0
+  cloud_firestore: ^2.2.0
+  stripe_payment: ^1.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+  change_app_package_name:
+
+flutter:
+
+  uses-material-design: true
+  assets:
+      - assets/
+      - assets/images/
+      - assets/images/LoveHajj/
+      - assets/images/LoveJummah/
+      - assets/images/LoveRamadan/
+      - assets/images/LoveEasyGiving/  
+
+  fonts:
+    - family: Futura
+      fonts:
+        - asset: assets/fonts/Futura-Bold.otf
+        - asset: assets/fonts/Futura-Medium.otf
+
