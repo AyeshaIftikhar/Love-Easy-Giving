@@ -1,0 +1,44 @@
+name: admin
+description: A new Flutter project.
+publish_to: 'none' 
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_web_plugins:
+      sdk: flutter
+  cupertino_icons: ^1.0.2
+  get: ^4.2.4
+  firebase_auth: ^3.0.1
+  firebase_core: ^1.4.0
+  cloud_firestore: ^2.4.0
+  firebase_storage: ^10.0.1
+  shared_preferences: ^2.0.6
+  image_picker: ^0.8.2
+  intl: ^0.17.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+  change_app_package_name: 
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/images/
+
+  fonts:
+    - family: Futura
+      fonts:
+        - asset: assets/fonts/Futura-Medium.otf
+        - asset: assets/fonts/Futura-Bold.otf
+  #         style: italic
